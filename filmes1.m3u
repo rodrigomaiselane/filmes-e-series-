@@ -4,13 +4,13 @@
 
 #################################################  Game of Thrones  ##################################################################
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x1 O Inverno Está Chegando https://crius.feralhosting.com/amazflix/series/GOT/T1/EP1.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x2 A Estrada Real https://crius.feralhosting.com/amazflix/series/GOT/T1/EP2.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x3 Lorde Snow https://crius.feralhosting.com/amazflix/series/GOT/T1/EP3.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x4 Aleijados, Bastardos, e Coisas Quebradas https://crius.feralhosting.com/amazflix/series/GOT/T1/EP4.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x5 O Lobo e o Leão https://crius.feralhosting.com/amazflix/series/GOT/T1/EP5.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x6 Uma Coroa de Ouro https://crius.feralhosting.com/amazflix/series/GOT/T1/EP6.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x7 Vença ou Morra https://crius.feralhosting.com/amazflix/series/GOT/T1/EP7.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x8 O Ponto Final https://crius.feralhosting.com/amazflix/series/GOT/T1/EP8.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x9 Baelor https://crius.feralhosting.com/amazflix/series/GOT/T1/EP9.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3eo7J5O" group-title="Game of Thrones", 1x10 Fogo e Sangue https://crius.feralhosting.com/amazflix/series/GOT/T1/EP9.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x1 O Inverno Está Chegando https://crius.feralhosting.com/amazflix/series/GOT/T1/EP1.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x2 A Estrada Real https://crius.feralhosting.com/amazflix/series/GOT/T1/EP2.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x3 Lorde Snow https://crius.feralhosting.com/amazflix/series/GOT/T1/EP3.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x4 Aleijados, Bastardos, e Coisas Quebradas https://crius.feralhosting.com/amazflix/series/GOT/T1/EP4.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x5 O Lobo e o Leão https://crius.feralhosting.com/amazflix/series/GOT/T1/EP5.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x6 Uma Coroa de Ouro https://crius.feralhosting.com/amazflix/series/GOT/T1/EP6.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x7 Vença ou Morra https://crius.feralhosting.com/amazflix/series/GOT/T1/EP7.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x8 O Ponto Final https://crius.feralhosting.com/amazflix/series/GOT/T1/EP8.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x9 Baelor https://crius.feralhosting.com/amazflix/series/GOT/T1/EP9.mp4
+#EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://bit.ly/3eo7J5O", 1x10 Fogo e Sangue https://crius.feralhosting.com/amazflix/series/GOT/T1/EP9.mp
